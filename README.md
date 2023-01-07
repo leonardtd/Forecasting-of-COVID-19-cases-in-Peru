@@ -1,5 +1,5 @@
 # Forecasting of COVID-19 cases in Peru
-Implementation of a LSTM neural network to forecast number of confirmed cases of COVID-19 in Peru.
+Implementation of a LSTM neural network to forecast the number of confirmed COVID-19 cases in Peru.
 
 ## Data & Pre-processing
 Data was collected from the official [Peruvian government database of confirmed COVID-19 cases](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa) on January 07, 2023. Data pre-processing was applied to obtain the final dataset used in the modeling.
